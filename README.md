@@ -32,7 +32,7 @@
 [Конфигурационный файл keepalived](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/file/keepalived.conf)
 
 Сервер nginx на 192.168.0.108 работает
-![Сервер nginx на 192.168.0.108 работает](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_1.jpg)
+![Сервер nginx на 192.168.0.108 работает](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_1.png)
 
 Сервер nginx на 192.168.0.110 работает
 ![Сервер nginx на 192.168.0.110 работает](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_2.jpg)
