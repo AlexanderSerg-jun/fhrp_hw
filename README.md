@@ -8,11 +8,11 @@
 - `На проверку отправьте получившуюся схему в формате pkt и скриншот, где виден процесс настройки маршрутизатора.`
 
 # Решение 
-![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/router.jpg)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/router.png)
 
-![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/ping_with_2_line.jpg)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/ping_with_2_line.png)
 
-![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/ping_with_1_line.jpg)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/ping_with_1_line.png)
 
 !
 
@@ -35,26 +35,26 @@
 ![Сервер nginx на 192.168.0.108 работает](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_1.png)
 
 Сервер nginx на 192.168.0.110 работает
-![Сервер nginx на 192.168.0.110 работает](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_2.jpg)
+![Сервер nginx на 192.168.0.110 работает](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_2.png)
 
 Плавающий IP-адрес 192.168.0.220 ссылается на 192.168.0.108
-![Плавающий IP-адрес ссылается на 192.168.0.110](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_3.jpg)
+![Плавающий IP-адрес ссылается на 192.168.0.110](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_3.png)
 
 Скриншот сетевого интерфейса машины 192.168.0.108, где присутствует плавющий IP-адрес
-![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_4.jpg)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_4.png)
 
 Скриншот сетевого интерфейса машины 192.168.0.110, где отсутствует плавающий IP-адрес
-![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_5.jpg)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_5.png)
 
 Изменим название файла, на который ссылается скрипт 
-![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_6.jpg)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_6.png)
 
 На сервере nginx ошибка
-![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_7.jpg)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_7.png)
 
 Плавающий IP-адрес 192.168.0.200 ссылается на 192.168.0.110
-![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_8.jpg)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_8.png)
 
 Скриншоты сетевых интерфейсов, где мы видим, что плавающий IP-адрес появился на 192.168.56.15 интерфейсе
-![Image alt](img/Screenshot_5.jpg)
-![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_6.jpg)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_5.png)
+![Image alt](https://github.com/AlexanderSerg-jun/fhrp_hw/blob/main/img/Screenshot_6.png)
